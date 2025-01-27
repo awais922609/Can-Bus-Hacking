@@ -27,7 +27,10 @@ Tools: can-utils, socketcan
 Clone the repository:
 
 git clone https://github.com/awais922609/Can-Bus-Hacking.git
+
 cd Can-Bus-Hacking
+
+Run these videos to get the understanding of how to proceed with this paper.
 
 # Contributing
 
